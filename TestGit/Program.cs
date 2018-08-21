@@ -12,6 +12,11 @@ namespace TestGit
         {
             Console.WriteLine("hhiii");
             Console.WriteLine("aaaa");
+            //fix bug 309
+            Console.WriteLine("I'm fixing bug 310");
+            Console.WriteLine("I'm fixing bug 310");
+            Console.WriteLine("I'm fixing bug 311");
+            Console.WriteLine("I'm fixing bug 312");
         }
     }
 }
